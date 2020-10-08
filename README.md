@@ -8,7 +8,7 @@ but the site can serve as a hub and also for practicing your HTML/CSS/etc skills
 
 To make a personal page, make a folder with your GitHub username as the name, and put all your own stuff in there.
 
-Instructions for use:
+### Instructions for use:
 
 1. Go to the directory you want to store your copy of this project, via Git Bash/terminal using the "cd" command.
 2. Clone the repository:<br>
