@@ -18,13 +18,15 @@ To make a personal page, make a folder with your GitHub username as the name, an
 `git branch <name_of_your_branch>`
 5. Switch to that branch with:<br>
 `git checkout <name_of_your_branch>`
-6. Do your thing
+6. Do your thing (add files, change files, etc)
 7. Add your changes to be committed:<br>
 `git add *`
 8. Make your commit:<br>
 `git commit -m "(a short message describing what you've added/changed)"`
 9. Push to the repository:<br>
 `git push -u origin <name_of_your_branch>`
+
+These steps will probably change slightly in the future as we get our workflow right.
 
 Any problems or confusion, ask me and I can help you with it.<br>
 Git takes a bit of getting used to, but you'll be using it a lot so you'll pick it up rapid.
