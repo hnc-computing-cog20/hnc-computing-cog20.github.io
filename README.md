@@ -26,7 +26,7 @@ To make a personal page, make a folder with your GitHub username as the name, an
 9. Push to the repository:<br>
 `git push -u origin <name_of_your_branch>`
 
-These steps will probably change slightly in the future as we get our workflow right.
+Steps 7-9 will probably change slightly in the future as we get our workflow right.
 
 Any problems or confusion, ask me and I can help you with it.<br>
 Git takes a bit of getting used to, but you'll be using it a lot so you'll pick it up rapid.
